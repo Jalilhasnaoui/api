@@ -10,10 +10,102 @@
 
          "titles":"Wars World",
          
-         "gamelink":"https://tv.yacine-tv.app/",
+         "gamelink":"https://html5.gamedistribution.com/012571be2adf4e9dac428f96063c6ebd/",
          "image_detail":"https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/f4/08/93/f40893f7-d837-0eca-c4e9-8385ded1e639/source/512x512bb.jpg",
          "img":"https://assets.mspimages.in/gear/wp-content/uploads/2023/01/actio-games.jpg"
       },
+      {
+         "titles":"The final",
+            "gamelink":"https://html5.gamedistribution.com/d220447d105a446e98db69be8113b94d/",
+         "image_detail":"https://m.media-amazon.com/images/I/81-VgCeCswL.png",
+         "img":"https://sm.ign.com/t/ign_za/video/5/5-best-act/5-best-action-games-with-xbox-game-pass-ign-best-list_47s5.1280.jpg"
+      }
+   
+      
+   ]
+  },
+  
+   {
+        
+    "title":"Arcade",
+    "image" : "https://www.pngmart.com/files/13/Arcade-Machine-PNG-Picture.png",
+    "desc" : "Arcade games",
+    "background_image" :"https://img.freepik.com/free-vector/purple-abstract-background_1340-17009.jpg",
+    "sous_categorie": [
+      {
+
+         "titles":"Super Mario",
+            "gamelink":"https://supermarioplay.com/game/mobilemario.html?v=1.0.20",
+         "image_detail":"https://m.media-amazon.com/images/I/71OWWCZNouL._AC_UF894,1000_QL80_.jpg",
+         
+         "img":"https://i.insider.com/560ebbe7dd0895325c8b458e?width=1000&format=jpeg&auto=webp"
+      },
+      {
+         "titles":"DragonBall",
+            "gamelink":"https://static.arcadespot.com/retroemulator.php?system=sega&game=2017/11/dragon-ball-z-fre.gen",
+         "image_detail":"https://play-lh.googleusercontent.com/HYNL9OREQjx6iJEuhP9hZ7fh8x_lxx7L6-YNy5OXJGfiqQDdzUYCbO63CH_frPfm3m2h",
+         "img":"https://i.ytimg.com/vi/t7Y3odDJalM/maxresdefault.jpg"
+      }
+   
+      
+   ]
+  },
+  
+  {
+        
+    "title":"Adventures",
+    "image" : "https://img3.wikia.nocookie.net/__cb20130919071315/logopedia/images/d/dc/Adventure_Time_Logo.png",
+    "desc" : "Adventures Games",
+    "background_image" :"https://img.freepik.com/premium-photo/blue-curve-tunnel-with-led-glowing-lights-concept-fast-business-technology_37129-3033.jpg",
+    "sous_categorie": [
+      {
+
+         "titles":"PS4 Prince ",
+            "gamelink":"https://html5.gamedistribution.com/daf565f237404389b0ebe452d558d48c/",
+         "image_detail":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+         "img":"https://www.androidauthority.com/wp-content/uploads/2021/09/Titan-Quest-Legendary-Edition-screenshot-2022.jpg"
+      },
+      {
+         "titles":"The Corner",
+            "gamelink":"https://html5.gamedistribution.com/daf565f237404389b0ebe452d558d48c/",
+         "image_detail":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+         "img":"https://us.v-cdn.net/6036147/uploads/1NR6808I4NPI/l-23-2-1200x675.jpg"
+      },
+      
+      {
+         "titles":"Monkey Island",
+            "gamelink":"https://html5.gamedistribution.com/daf565f237404389b0ebe452d558d48c/",
+         "image_detail":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+         "img":"https://www.gameshub.com/wp-content/uploads/sites/5/2022/09/return-to-monkey-island-review.jpg?w=997"
+      }
+   
+      
+   ]
+  },
+  
+  {
+        
+    "title":"Girls Games",
+    "image" : "https://image.apktoy.com/img/36/com.Makeup.Games.Girls/icon.png",
+    "desc" : "Best Girls Games",
+    "background_image" :"https://img.freepik.com/free-vector/gradient-liquid-abstract-background_23-2148922414.jpg",
+    "sous_categorie": [
+      {
+
+         "titles":"Makeup Lady",
+           "gamelink":"https://html5.gamedistribution.com/daf565f237404389b0ebe452d558d48c/",
+         "image_detail":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+         "img":"https://play-lh.googleusercontent.com/CdmgRYsRmjrpOJ1d0WftR0tyQj-lN_LkePtjYewc4SeeSKApy1mjE1gJWeuD3BoEHUA=w526-h296-rw"
+      },
+      {
+         "titles":"Pregnant makeup",
+         "gamelink":"https://html5.gamedistribution.com/daf565f237404389b0ebe452d558d48c/",
+         "image_detail":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+         "img":"https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/cd/87/17/cd871795-ea80-b485-667f-ec74714a2258/source/750x750bb.jpeg"
+      }
+   
+      
+   ]
   }
   
   
