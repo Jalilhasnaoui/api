@@ -3,7 +3,7 @@
         
     "title":"Yacine Tv",
     "image" : "https://images.sftcdn.net/images/t_app-icon-s/p/ddaf635e-461a-433b-83ad-cad9ebb5e7dd/2772875078/yacine-tv-download-Yacine-TV.jpg",
-    "desc" : "Action Games",
+    "desc" : "Yacine Tv ",
     "background_image" :"https://images.sftcdn.net/images/t_app-icon-s/p/ddaf635e-461a-433b-83ad-cad9ebb5e7dd/2772875078/yacine-tv-download-Yacine-TV.jpg",
     "sous_categorie": [
       {
@@ -15,10 +15,10 @@
          "img":"https://images.sftcdn.net/images/t_app-icon-s/p/ddaf635e-461a-433b-83ad-cad9ebb5e7dd/2772875078/yacine-tv-download-Yacine-TV.jpg"
       },
       {
-         "titles":"The final",
+         "titles":"Yacine Tv 2",
             "gamelink":"https://www.watcho.com/channel/live/zee-news",
-         "image_detail":"https://m.media-amazon.com/images/I/81-VgCeCswL.png",
-         "img":"https://sm.ign.com/t/ign_za/video/5/5-best-act/5-best-action-games-with-xbox-game-pass-ign-best-list_47s5.1280.jpg"
+         "image_detail":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/72/72/9e7272e8-b108-e353-8e55-5152d34d36a5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
+         "img":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/72/72/9e7272e8-b108-e353-8e55-5152d34d36a5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp"
       }
    
       
@@ -35,7 +35,7 @@
       {
 
          "titles":"Super Mario",
-            "gamelink":"https://supermarioplay.com/game/mobilemario.html?v=1.0.20",
+            "gamelink":"https://tv.yacine-tv.app/",
          "image_detail":"https://m.media-amazon.com/images/I/71OWWCZNouL._AC_UF894,1000_QL80_.jpg",
          
          "img":"https://i.insider.com/560ebbe7dd0895325c8b458e?width=1000&format=jpeg&auto=webp"
