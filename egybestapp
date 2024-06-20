@@ -1,10 +1,10 @@
 {
-    "adNetwork": "unity",
+    "adNetwork": "start app",
     "unityAppID": "5603115",
     "unityInterstitial": "Interstitial_Android",
     "unityBanner": "Banner_Android",
     "unityReward": "Rewarded_Android",
-    "startAppID": "203789304",
+    "startAppID": "205604266",
     "version": "3.0",
     "apk_url": "https://egybestapp.pro/"
 }
