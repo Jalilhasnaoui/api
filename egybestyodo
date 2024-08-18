@@ -1,0 +1,16 @@
+{
+  "adNetwork": "unity",
+  "unityAppID": "5603115",
+  "unityInterstitial": "Interstitial_Android",
+  "unityBanner": "Banner_Android",
+  "unityReward": "Rewarded_Android",
+  "startAppID": "203789304",
+  "yodoAppKey": "b0cNNRrZWa",
+  "version": "4.0",
+  "notificationActive":true,
+  "notificationTitle":"إشعار",
+  "notificationMessage":"لوريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع مطبوعه",
+  "customNativeImage": "https://placehold.co/500x300.png",
+  "customNativeUrl":"https://www.google.com",
+  "apk_url": "https://egybestapp.pro/"
+}
