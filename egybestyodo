@@ -7,7 +7,7 @@
   "startAppID": "203789304",
   "yodoAppKey": "UeneAahR6F",
   "version": "4.0",
-  "notificationActive":true,
+  "notificationActive":false,
   "notificationTitle":"إشعار",
   "notificationMessage":"لوريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع مطبوعه",
   "customNativeImage": "https://tech3arabi.com/wp-content/uploads/2022/08/ما-الفرق-بين-القناة-والمجموعة-في-تلجرام-؟.png",
