@@ -1,21 +1,16 @@
-[
-   {
-      
-   "ads_type":"huawei",
-   "applovin_banner":"7dae91050decc5fc",
-   "applovin_inter" : "83a3fa37e2456d26",
-   "applovin_native" : "64a5742e9ff620b2",
-   
-   "Fb_banner":"7200449183304169_7200624573286630",
-   "Fb_inter":"7200449183304169_7200478343301253",
-   "Fb_native":"7200449183304169_7200738216608599",
-
-
-   "Huawei_banner": "testw6vs28auh3",
-   "Huawei_interstital" : "testb4znbuh3n2" ,
-   "Huawei_native" : "testy63txaom86",
-   "click":"15"
-  
-   }
-      
-   ]
+{
+  "adNetwork": "yodo",
+  "unityAppID": "5603115",
+  "unityInterstitial": "Interstitial_Android",
+  "unityBanner": "Banner_Android",
+  "unityReward": "Rewarded_Android",
+  "startAppID": "203789304",
+  "yodoAppKey": "MzRZ5eiIaH",
+  "version": "4.0",
+  "notificationActive":false,
+  "notificationTitle":"إشعار",
+  "notificationMessage":"لوريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع مطبوعه",
+  "customNativeImage": "https://tech3arabi.com/wp-content/uploads/2022/08/ما-الفرق-بين-القناة-والمجموعة-في-تلجرام-؟.png",
+  "customNativeUrl":"https://t.me/EgyBestapp2",
+  "apk_url": "https://egybestapp.pro/"
+}
