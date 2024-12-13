@@ -1,0 +1,17 @@
+{
+  "casID": "b465465f",
+  "apk_url": "https://egybestapp.pro/",
+  "version": "4.0",
+  "adNetwork": "cas",
+  "startAppID": "203789304",
+  "unityAppID": "5603115",
+  "yodoAppKey": "b0cNNRrZWa",
+  "unityBanner": "Banner_Android",
+  "unityReward": "Rewarded_Android",
+  "customNativeUrl": "https://www.google.com",
+  "customNativeImage": "https://placehold.co/500x300.png",
+  "notificationTitle": "إشعار",
+  "unityInterstitial": "Interstitial_Android",
+  "notificationActive": true,
+  "notificationMessage": "لوريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع مطبوعه"
+}
