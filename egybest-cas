@@ -2,7 +2,7 @@
   "casID": "com.ibostore.iboxtv",
   "apk_url": "https://egybestapp.pro/",
   "version": "7.0",
-  "adNetwork": "unity",
+  "adNetwork": "cas",
   "startAppID": "203789304",
   "unityAppID": "5603115",
   "yodoAppKey": "b0cNNRrZWa",
