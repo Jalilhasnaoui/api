@@ -12,6 +12,6 @@
   "customNativeImage": "https://dramalive.pro/wp-content/uploads/2024/09/native-egybest.png",
   "notificationTitle": "إشعار",
   "unityInterstitial": "Interstitial_Android",
-  "notificationActive": false,
-  "notificationMessage": "لوريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع مطبوعه"
+  "notificationActive": true,
+  "notificationMessage": "الأن بعد تحميلك التحديث الجديد سيضهر عندك نسختين من تطبيق قم بإزالة النسخة القديمة واترك فقط النسخة الجديدة"
 }
