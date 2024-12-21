@@ -12,7 +12,7 @@
   "customNativeImage": "https://dramalive.pro/wp-content/uploads/2024/09/native-egybest.png",
   "notificationTitle": "إشعار",
   "unityInterstitial": "Interstitial_Android",
-  "notificationActive": true,
+  "notificationActive": false,
   "notificationMessage": "السلام عليكم،
 
 بعد إصدار التحديث الجديد، ظهرت بعض المشاكل لبعض المستخدمين مثل:
