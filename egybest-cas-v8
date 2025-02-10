@@ -9,10 +9,10 @@
   "unityBanner": "Banner_Android",
   "unityReward": "Rewarded_Android",
   "customNativeUrl": "https://egybestapp.pro/",
-  "customNativeImage": "https://dramalive.pro/wp-content/uploads/2025/02/NEW-UPDATE-EGYBEST.png",
+  "customNativeImage": "https://dramalive.pro/wp-content/uploads/2024/09/native-egybest.png",
   "notificationTitle": "إشعار",
   "unityInterstitial": "Interstitial_Android",
-  "notificationActive": true,
+  "notificationActive": false,
   "notificationMessage": "🎉 خبر سار! التحديث الجديد متوفر الآن!
 
 تم إطلاق التحديث الجديد لـ EgyBest App مع تحسينات رائعة وتجربة مشاهدة أفضل! قم بتحميله الآن واستمتع بأفضل الأفلام والمسلسلات."
