@@ -1,0 +1,20 @@
+{
+  "casID": "com.ibostore.iboxtv",
+  "apk_url": "https://tubemateapp.site/",
+  "version": "1.0",
+  "adFrequency": 3,
+  "customPopup": {
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Snaptube_Logo.png",
+    "title": "Get to know Snaptube",
+    "message": "The best app for downloading videos ever",
+    "isActive": false,
+    "buttonUrl": "https://www.google.com",
+    "frequency": 3,
+    "buttonText": "Install",
+    "buttonColor": "#cf202e",
+    "buttonTextColor": "#FFFFFF"
+  },
+  "notificationTitle": "Notification",
+  "notificationActive": false,
+  "notificationMessage": "Lorem ipsum is a dummy text used in designs to show the client how the layout would look"
+}
