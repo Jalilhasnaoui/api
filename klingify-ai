@@ -1,19 +1,19 @@
 [
   {
     "name": "Kiss AI",
-    "Prompt": "Generate a romantic scene with soft lighting, showing two characters about to kiss.",
+    "Prompt": "Create a soft, emotional moment between two characters in a cinematic setting, focusing on connection and closeness.",
     "thumbnail": "https://i.imgur.com/MQt0kNz.jpeg",
     "numberOfImages": 2
   },
   {
     "name": "Hug AI",
-    "Prompt": "Create a warm scene of two people sharing a heartfelt hug in a beautiful setting.",
+    "Prompt": "Generate a cozy scene where two people are sharing a heartfelt connection with warm lighting and peaceful atmosphere.",
     "thumbnail": "https://i.imgur.com/JaaHgTu.png",
     "numberOfImages": 2
   },
   {
     "name": "Venom Style",
-    "Prompt": "Transform the person into a dark, edgy character inspired by Venom with symbiote effects.",
+    "Prompt": "Transform the person into a dark, alien-like creature with glowing eyes, black liquid skin, and powerful symbiote-inspired effects.",
     "thumbnail": "https://i.imgur.com/YXWDjlz.jpeg",
     "numberOfImages": 1
   },
