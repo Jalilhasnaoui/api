@@ -2,19 +2,19 @@
   {
     "name": "Kiss AI",
     "Prompt": "Generate a romantic scene with soft lighting, showing two characters about to kiss.",
-    "thumbnail": "https://cdn.pixabay.com/photo/2020/11/04/05/42/couple-5710817_960_720.jpg",
-    "numberOfImages": 1
+    "thumbnail": "https://i.imgur.com/MQt0kNz.jpeg",
+    "numberOfImages": 2
   },
   {
     "name": "Hug AI",
     "Prompt": "Create a warm scene of two people sharing a heartfelt hug in a beautiful setting.",
-    "thumbnail": "https://cdn.pixabay.com/photo/2016/03/27/20/57/couple-1284473_960_720.jpg",
-    "numberOfImages": 1
+    "thumbnail": "https://i.imgur.com/JaaHgTu.png",
+    "numberOfImages": 2
   },
   {
     "name": "Venom Style",
     "Prompt": "Transform the person into a dark, edgy character inspired by Venom with symbiote effects.",
-    "thumbnail": "https://cdn.pixabay.com/photo/2020/08/09/13/53/skull-5475937_960_720.jpg",
+    "thumbnail": "https://i.imgur.com/YXWDjlz.jpeg",
     "numberOfImages": 1
   },
   {
