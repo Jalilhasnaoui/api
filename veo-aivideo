@@ -237,7 +237,7 @@
         },
         {
           "id": "shape_shifting",
-          "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop",
+          "image_url": "https://cdn.pixabay.com/photo/2024/03/31/14/21/ai-generated-8666784_1280.png",
           "title": "Shape-Shifting",
           "description_key": "shape_shifting_desc",
           "prompt": "morph into a mythical creature like a werewolf or a phoenix in a dramatic transformation",
