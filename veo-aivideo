@@ -1,0 +1,314 @@
+{
+  "ai_tool_categories": [
+    {
+      "category_name": "trending",
+      "templates": [
+        {
+          "id": "morphing_face",
+          "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop",
+          "title": "Morphing Face",
+          "description_key": "morphing_face_desc",
+          "prompt": "face morphs and transforms smoothly with AI glitch effects",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "anime_transformation",
+          "image_url": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?w=800&h=600&fit=crop",
+          "title": "Anime Transformation",
+          "description_key": "anime_transformation_desc",
+          "prompt": "transform into a popular anime character style with cel-shading and dramatic eyes",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "time_freeze",
+          "image_url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&h=600&fit=crop",
+          "title": "Time Freeze",
+          "description_key": "time_freeze_desc",
+          "prompt": "freeze in time while background moves in slow motion, with particle effects",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "viral_dance_challenge",
+          "image_url": "https://images.unsplash.com/photo-1547153760-18fc86324498?w=800&h=600&fit=crop",
+          "title": "Viral Dance Challenge",
+          "description_key": "viral_dance_desc",
+          "prompt": "perform the latest viral TikTok dance perfectly with energetic moves",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "hyper_realistic_deepfake",
+          "image_url": "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?w=800&h=600&fit=crop",
+          "title": "Hyper-Realistic Deepfake",
+          "description_key": "hyper_realistic_deepfake_desc",
+          "prompt": "seamlessly lip-sync to a famous movie monologue with perfect emotion and mouth movements",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        }
+      ]
+    },
+    {
+      "category_name": "social_media_trends",
+      "templates": [
+        {
+          "id": "get_ready_with_me",
+          "image_url": "https://images.unsplash.com/photo-1590071089569-4a6a2d369cab?w=800&h=600&fit=crop",
+          "title": "Get Ready With Me (GRWM)",
+          "description_key": "grwm_desc",
+          "prompt": "time-lapse of applying makeup or getting dressed for a day, with smooth transitions",
+          "isVeo": false,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "storytime_animation",
+          "image_url": "https://images.unsplash.com/photo-1616469829476-8953c5652c07?w=800&h=600&fit=crop",
+          "title": "Storytime Animation",
+          "description_key": "storytime_animation_desc",
+          "prompt": "animate a funny personal story with expressive cartoon characters and gestures",
+          "isVeo": true,
+          "video_type": "text_to_video"
+        },
+        {
+          "id": "trend_hop_transition",
+          "image_url": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=800&h=600&fit=crop",
+          "title": "Trend Hop Transition",
+          "description_key": "trend_hop_transition_desc",
+          "prompt": "quick-cut transition through 3 different popular TikTok trends in one video",
+          "isVeo": true,
+          "video_type": "multiple_image_to_video"
+        },
+        {
+          "id": "green_screen_effect",
+          "image_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+          "title": "Green Screen Effect",
+          "description_key": "green_screen_effect_desc",
+          "prompt": "replace a green background with a trending video or fantastical landscape",
+          "isVeo": false,
+          "video_type": "video_to_video"
+        },
+        {
+          "id": "photo_dump_aesthetic",
+          "image_url": "https://images.unsplash.com/photo-1554080353-321c1844f91c?w=800&h=600&fit=crop",
+          "title": "Photo Dump Aesthetic",
+          "description_key": "photo_dump_aesthetic_desc",
+          "prompt": "create a nostalgic, curated collage of 'found' photos with a consistent vintage filter",
+          "isVeo": false,
+          "video_type": "multiple_image_to_video"
+        }
+      ]
+    },
+    {
+      "category_name": "ai_avatar_studio",
+      "templates": [
+        {
+          "id": "multilingual_spokesperson",
+          "image_url": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=800&h=600&fit=crop",
+          "title": "Multilingual Spokesperson",
+          "description_key": "multilingual_spokesperson_desc",
+          "prompt": "AI avatar delivers a script clearly in English, then seamlessly transitions to Spanish",
+          "isVeo": false,
+          "video_type": "text_to_video"
+        },
+        {
+          "id": "custom_avatar_creation",
+          "image_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&h=600&fit=crop",
+          "title": "Custom Avatar Creation",
+          "description_key": "custom_avatar_creation_desc",
+          "prompt": "generate a photorealistic digital twin from a single photo for professional videos",
+          "isVeo": false,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "interactive_avatar_chat",
+          "image_url": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800&h=600&fit=crop",
+          "title": "Interactive Avatar Chat",
+          "description_key": "interactive_avatar_chat_desc",
+          "prompt": "create an avatar that can answer FAQs in real-time as a video chatbot",
+          "isVeo": false,
+          "video_type": "text_to_video"
+        }
+      ]
+    },
+    {
+      "category_name": "cinematic_effects",
+      "templates": [
+        {
+          "id": "dolly_zoom_effect",
+          "image_url": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=800&h=600&fit=crop",
+          "title": "Dolly Zoom Effect",
+          "description_key": "dolly_zoom_effect_desc",
+          "prompt": "vertigo-inducing dolly zoom effect, where the background stretches while the subject remains stable",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "bullet_time_360",
+          "image_url": "https://images.unsplash.com/photo-1544717297-fa95b6ee9643?w=800&h=600&fit=crop",
+          "title": "Bullet Time 360",
+          "description_key": "bullet_time_360_desc",
+          "prompt": "camera circles around a subject frozen in mid-action, like The Matrix",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "lightning_effects",
+          "image_url": "https://images.unsplash.com/photo-1517963879433-6ad2b056d712?w=800&h=600&fit=crop",
+          "title": "Lightning & Elemental Effects",
+          "description_key": "lightning_effects_desc",
+          "prompt": "electricity or lightning arcs around the subject's hands and body, with glowing eyes",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "neon_noir_style",
+          "image_url": "https://images.unsplash.com/photo-1533228100847-7b6e9b35c9db?w=800&h=600&fit=crop",
+          "title": "Neon-Noir Style",
+          "description_key": "neon_noir_style_desc",
+          "prompt": "transform the scene into a rainy, neon-lit cyberpunk street at night",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        }
+      ]
+    },
+    {
+      "category_name": "content_repurposing",
+      "templates": [
+        {
+          "id": "blog_to_video",
+          "image_url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&h=600&fit=crop",
+          "title": "Blog-to-Video",
+          "description_key": "blog_to_video_desc",
+          "prompt": "automatically transform a blog post's key points into a dynamic summary video with B-roll",
+          "isVeo": false,
+          "video_type": "text_to_video"
+        },
+        {
+          "id": "podcast_highlight_reel",
+          "image_url": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&h=600&fit=crop",
+          "title": "Podcast Highlight Reel",
+          "description_key": "podcast_highlight_reel_desc",
+          "prompt": "create a short, engaging clip from a long-form podcast, with animated waveforms and captions",
+          "isVeo": false,
+          "video_type": "video_to_video"
+        },
+        {
+          "id": "text_slide_to_video",
+          "image_url": "https://images.unsplash.com/photo-1616604744535-5b19e2d61e35?w=800&h=600&fit=crop",
+          "title": "Text Slide to Video",
+          "description_key": "text_slide_to_video_desc",
+          "prompt": "animate a PowerPoint or text-heavy slide with kinetic typography and icons",
+          "isVeo": false,
+          "video_type": "image_to_video"
+        }
+      ]
+    },
+    {
+      "category_name": "fantasy_and_magic",
+      "templates": [
+        {
+          "id": "fairy_wings_sprout",
+          "image_url": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800&h=600&fit=crop",
+          "title": "Fairy Wings Sprout",
+          "description_key": "fairy_wings_sprout_desc",
+          "prompt": "elegant butterfly or dragonfly wings sprout and flutter from your back",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "energy_blast",
+          "image_url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&h=600&fit=crop",
+          "title": "Energy Blast",
+          "description_key": "energy_blast_desc",
+          "prompt": "charge and unleash a powerful energy blast from the hands, with shockwave effects",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "portal_creation",
+          "image_url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&h=600&fit=crop",
+          "title": "Portal Creation",
+          "description_key": "portal_creation_desc",
+          "prompt": "a swirling, magical portal opens in mid-air, revealing another world",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "shape_shifting",
+          "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop",
+          "title": "Shape-Shifting",
+          "description_key": "shape_shifting_desc",
+          "prompt": "morph into a mythical creature like a werewolf or a phoenix in a dramatic transformation",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        }
+      ]
+    },
+    {
+      "category_name": "professional_use_cases",
+      "templates": [
+        {
+          "id": "product_demo_360",
+          "image_url": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=600&fit=crop",
+          "title": "Product Demo 360",
+          "description_key": "product_demo_360_desc",
+          "prompt": "a product rotates 360 degrees on a clean background, highlighting its key features",
+          "isVeo": false,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "lifestyle_ad_scene",
+          "image_url": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=800&h=600&fit=crop",
+          "title": "Lifestyle Ad Scene",
+          "description_key": "lifestyle_ad_scene_desc",
+          "prompt": "generate a scene of people happily using a product in a realistic, aspirational setting",
+          "isVeo": true,
+          "video_type": "text_to_video"
+        },
+        {
+          "id": "training_scenario",
+          "image_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop",
+          "title": "Training Scenario",
+          "description_key": "training_scenario_desc",
+          "prompt": "AI avatars act out a customer service or safety training scenario with multiple outcomes",
+          "isVeo": false,
+          "video_type": "text_to_video"
+        }
+      ]
+    },
+    {
+      "category_name": "ai_powered_editing",
+      "templates": [
+        {
+          "id": "style_transfer_video",
+          "image_url": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?w=800&h=600&fit=crop",
+          "title": "Style Transfer Video",
+          "description_key": "style_transfer_video_desc",
+          "prompt": "apply the artistic style of Van Gogh's Starry Night or a famous painter to your entire video",
+          "isVeo": true,
+          "video_type": "video_to_video"
+        },
+        {
+          "id": "ai_zoom_crop",
+          "image_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+          "title": "AI-Powered Zoom & Crop",
+          "description_key": "ai_zoom_crop_desc",
+          "prompt": "AI automatically detects the subject and creates dynamic, Ken Burns-style zoom and pan effects",
+          "isVeo": false,
+          "video_type": "video_to_video"
+        },
+        {
+          "id": "auto_highlight_reel",
+          "image_url": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&h=600&fit=crop",
+          "title": "Auto Highlight Reel",
+          "description_key": "auto_highlight_reel_desc",
+          "prompt": "AI analyzes a long video and automatically generates a short, exciting highlight clip",
+          "isVeo": false,
+          "video_type": "video_to_video"
+        }
+      ]
+    }
+  ]
+}
