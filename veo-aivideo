@@ -3,51 +3,141 @@
     {
       "category_name": "trending",
       "templates": [
-        {
-          "id": "morphing_face",
-          "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop",
-          "title": "Morphing Face",
-          "description_key": "morphing_face_desc",
-          "prompt": "face morphs and transforms smoothly with AI glitch effects",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-        {
-          "id": "anime_transformation",
-          "image_url": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?w=800&h=600&fit=crop",
-          "title": "Anime Transformation",
-          "description_key": "anime_transformation_desc",
-          "prompt": "transform into a popular anime character style with cel-shading and dramatic eyes",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-        {
-          "id": "time_freeze",
-          "image_url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&h=600&fit=crop",
-          "title": "Time Freeze",
-          "description_key": "time_freeze_desc",
-          "prompt": "freeze in time while background moves in slow motion, with particle effects",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-        {
-          "id": "viral_dance_challenge",
-          "image_url": "https://images.unsplash.com/photo-1547153760-18fc86324498?w=800&h=600&fit=crop",
-          "title": "Viral Dance Challenge",
-          "description_key": "viral_dance_desc",
-          "prompt": "perform the latest viral TikTok dance perfectly with energetic moves",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-        {
-          "id": "hyper_realistic_deepfake",
-          "image_url": "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?w=800&h=600&fit=crop",
-          "title": "Hyper-Realistic Deepfake",
-          "description_key": "hyper_realistic_deepfake_desc",
-          "prompt": "seamlessly lip-sync to a famous movie monologue with perfect emotion and mouth movements",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        }
+           {
+      "id": "morphing_face",
+      "image_url": "URL_HERE",
+      "title": "Morphing Face",
+      "description_key": "trending_morphing_face",
+      "prompt": "Morph faces with AI glitch effects",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "ai_glitch",
+      "image_url": "URL_HERE",
+      "title": "AI Glitch Effect",
+      "description_key": "trending_ai_glitch",
+      "prompt": "Glitchy distortion with cyberpunk vibes",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "time_lapse",
+      "image_url": "URL_HERE",
+      "title": "Time Lapse",
+      "description_key": "trending_time_lapse",
+      "prompt": "Simulate time lapse with moving light trails",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "cartoonify",
+      "image_url": "URL_HERE",
+      "title": "Cartoonify",
+      "description_key": "trending_cartoonify",
+      "prompt": "Transform photo into animated cartoon style",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "anime_style",
+      "image_url": "URL_HERE",
+      "title": "Anime Transformation",
+      "description_key": "trending_anime",
+      "prompt": "Turn into anime character with dynamic effects",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "superhero_transform",
+      "image_url": "URL_HERE",
+      "title": "Superhero Transformation",
+      "description_key": "trending_superhero",
+      "prompt": "Transform into a superhero with glowing aura, cape and power effects",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "pixel_art",
+      "image_url": "URL_HERE",
+      "title": "Pixel Art Effect",
+      "description_key": "trending_pixel_art",
+      "prompt": "Retro 8-bit pixel animation effect",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "cyberpunk",
+      "image_url": "URL_HERE",
+      "title": "Cyberpunk Neon",
+      "description_key": "trending_cyberpunk",
+      "prompt": "Neon lights, cyberpunk city, futuristic vibe",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "fire_effect",
+      "image_url": "URL_HERE",
+      "title": "On Fire",
+      "description_key": "trending_fire",
+      "prompt": "Flames and fire aura surrounding the person",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "ice_effect",
+      "image_url": "URL_HERE",
+      "title": "Frozen Effect",
+      "description_key": "trending_ice",
+      "prompt": "Cold frozen aura with ice shards effect",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "angel_wings",
+      "image_url": "URL_HERE",
+      "title": "Angel Wings",
+      "description_key": "trending_angel",
+      "prompt": "Glowing angel wings appearing on the back",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "demon_mode",
+      "image_url": "URL_HERE",
+      "title": "Demon Mode",
+      "description_key": "trending_demon",
+      "prompt": "Dark aura with red glowing eyes and horns",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "zombie_transform",
+      "image_url": "URL_HERE",
+      "title": "Zombie Transformation",
+      "description_key": "trending_zombie",
+      "prompt": "Turn into a creepy zombie with decay effects",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "robot_mecha",
+      "image_url": "URL_HERE",
+      "title": "Robot Transformation",
+      "description_key": "trending_robot",
+      "prompt": "Transform into a futuristic robot with metal skin",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    },
+    {
+      "id": "vampire_mode",
+      "image_url": "URL_HERE",
+      "title": "Vampire Look",
+      "description_key": "trending_vampire",
+      "prompt": "Sharp vampire teeth, glowing eyes, gothic effect",
+      "isVeo": true,
+      "video_type": "single_image_to_video"
+    }
       ]
     },
     {
