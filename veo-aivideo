@@ -124,6 +124,56 @@
       ]
     },
     {
+      "category_name": "couple_interactions",
+      "templates": [
+        {
+          "id": "hugging",
+          "image_url": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&h=600&fit=crop",
+          "title": "hugging",
+          "description_key": "hugging_desc",
+          "prompt": "hug two people",
+          "isVeo": true,
+          "video_type": "two_image_to_video"
+        },
+        {
+          "id": "walking_together",
+          "image_url": "https://images.unsplash.com/photo-1516589091380-5d8e87df6999?w=800&h=600&fit=crop",
+          "title": "walking together",
+          "description_key": "walking_together_desc",
+          "prompt": "walking two person",
+          "isVeo": false,
+          "video_type": "two_image_to_video"
+        },
+        {
+          "id": "dancing_together",
+          "image_url": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800&h=600&fit=crop",
+          "title": "dancing together",
+          "description_key": "dancing_desc",
+          "prompt": "couple dance togerher",
+          "isVeo": true,
+          "video_type": "two_image_to_video"
+        },
+        {
+          "id": "holding_hands",
+          "image_url": "https://images.unsplash.com/photo-1516589091380-5d8e87df6999?w=800&h=600&fit=crop",
+          "title": "holding hands",
+          "description_key": "holding_hands_desc",
+          "prompt": "two people hold hands and walk romantically",
+          "isVeo": false,
+          "video_type": "two_image_to_video"
+        },
+        {
+          "id": "whispering_secrets",
+          "image_url": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?w=800&h=600&fit=crop",
+          "title": "whispering secrets",
+          "description_key": "whispering_secrets_desc",
+          "prompt": "one person whispers into other's ear intimately",
+          "isVeo": true,
+          "video_type": "two_image_to_video"
+        }
+      ]
+    },
+    {
       "category_name": "Nightmare Escape",
       "templates": [
         {
