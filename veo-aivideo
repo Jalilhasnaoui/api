@@ -4,47 +4,47 @@
       "category_name": "Trending Effects",
       "templates": [
         {
-          "id": "superhero_transform",
-          "image_url": "https://cdn.pixabay.com/photo/2024/01/25/15/59/ai-generated-8532137_1280.jpg",
-          "title": "Superhero Transformation",
+          "id": "Unexpected Sucker Punch",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-1.jpeg",
+          "title": "Sucker Punch",
           "description_key": "superhero_transform_desc",
-          "prompt": "Transform into a superhero with glowing powers, aura and costume",
+          "prompt": "A cinematic scene of a person standing, suddenly hit by a fast, unexpected punch from the side. Head and body react naturally, dramatic and realistic impact, smooth motion, slow-motion effect on the punch, dynamic camera angles, realistic lighting, subtle shadows, tense atmosphere, ultra-realistic style, high detail, motion blur emphasizing speed and force.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
         {
-          "id": "anime_style",
-          "image_url": "https://cdn.pixabay.com/photo/2023/06/02/15/46/ai-generated-8035998_1280.png",
-          "title": "Anime Style",
+          "id": "Cage Fighter",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-2.jpeg",
+          "title": "Cage Fighter",
           "description_key": "anime_style_desc",
-          "prompt": "Turn into anime character with dynamic background",
+          "prompt": "A cinematic scene of a person in a professional fighting cage, like UFC, ready to fight. The face from the input image is placed on the fighter’s body naturally. Dynamic camera angles, realistic lighting, blurred cheering crowd in the background, tense atmosphere, ultra-realistic style, high detail on muscles, stance, and body posture, subtle motion blur to emphasize movement, cinematic perspective highlighting strength and focus.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
         {
-          "id": "zombie_mode",
-          "image_url": "https://cdn.pixabay.com/photo/2023/09/29/00/20/ai-generated-8282673_1280.jpg",
-          "title": "Zombie Mode",
+          "id": "Mermaid",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-14.jpeg",
+          "title": "Mermaid",
           "description_key": "zombie_mode_desc",
-          "prompt": "Creepy zombie look with decay effects",
+          "prompt": "A cinematic scene of a person transforming into a mermaid, moving from above the water to underwater. The face from the input image is naturally placed on the mermaid’s body, with a gentle small smile. Realistic underwater lighting, soft sun rays penetrating the water surface, bubbles and water movement around the body, flowing hair and tail, subtle motion blur for natural movement, calm and magical atmosphere. Ultra-realistic style, high detail on facial expression, scales, and tail, cinematic perspective emphasizing the transition from above water to underwater.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
         {
-          "id": "angel_wings",
-          "image_url": "https://cdn.pixabay.com/photo/2024/08/13/12/42/ai-generated-8965911_1280.jpg",
-          "title": "Angel Wings",
+          "id": "Werewolf Transformation",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-5.jpeg",
+          "title": "Werewolf Transformation",
           "description_key": "angel_wings_desc",
-          "prompt": "Glowing angel wings appear behind the person",
+          "prompt": "A cinematic scene of a person transforming into a muscular werewolf. The face from the input image is naturally blended onto the werewolf’s head. The werewolf has defined muscles, sharp claws, and fur details, standing in a dynamic aggressive pose. Dramatic lighting highlights the muscular physique and facial features, subtle motion blur for transformation effect, tense and intense atmosphere, ultra-realistic style, high detail on fur, muscles, and facial expression, cinematic perspective emphasizing power and strength.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
         {
-          "id": "robot_mecha",
-          "image_url": "https://cdn.pixabay.com/photo/2024/10/01/17/49/ai-generated-9089097_1280.jpg",
-          "title": "Robot Mecha",
+          "id": "Horror Chase",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-7.jpeg",
+          "title": "Horror Chase",
           "description_key": "robot_mecha_desc",
-          "prompt": "Futuristic robot transformation with metal skin",
+          "prompt": "A cinematic horror scene of a person being followed by a terrifying monster or creature. The face from the input image is placed naturally on the person being chased. The monster is dark, menacing, and slightly blurred to create tension, while the person shows fear and panic. Dramatic lighting with shadows and flickering lights, fog or smoke in the background, dynamic camera angles capturing the chase, subtle motion blur to emphasize speed and movement. Ultra-realistic style, high detail on facial expression, body posture, and monster appearance, tense and scary atmosphere, cinematic perspective highlighting fear and suspense.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         }
@@ -54,11 +54,11 @@
       "category_name": "Facial Expressions",
       "templates": [
         {
-          "id": "smile_effect",
-          "image_url": "https://cdn.pixabay.com/photo/2025/06/16/17/38/ai-generated-9663707_1280.png",
+          "id": "Rap Star",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-16.jpeg",
           "title": "Smiling Face",
           "description_key": "smile_effect_desc",
-          "prompt": "Face animates with natural smiling effect",
+          "prompt": "A cinematic scene of a person transformed into a rap star, performing in a music video or a hip-hop environment. The face from the input image is naturally placed on the performer’s head. The scene includes stage lights, graffiti, urban background, microphone, and dynamic camera angles capturing movement and energy. Realistic lighting with highlights and shadows, subtle motion blur for natural performance gestures, ultra-realistic style, high detail on facial expression, clothing, and body posture, cinematic perspective emphasizing confidence, charisma, and stage presence.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
@@ -72,14 +72,23 @@
           "video_type": "single_image_to_video"
         },
         {
-          "id": "angry_mode",
-          "image_url": "https://pixabay.com/illustrations/rage-emotion-anger-angry-face-8803697/",
-          "title": "Angry Mode",
-          "description_key": "angry_mode_desc",
-          "prompt": "Angry glowing eyes and red aura",
+          "id": "Makeup Transformation Studio",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-9.jpeg",
+          "title": "Makeup Transformation Studio",
+          "description_key": "A cinematic scene in a professional makeup studio where a person’s face from the input image is transformed into a beautiful version. Multiple makeup artists are applying makeup on the face, adjusting hair and adding finishing touches. Realistic lighting highlights facial features, skin texture, and makeup colors, soft reflections and shadows for depth, subtle motion blur on the hands of the artists. Ultra-realistic style, high detail on face, expressions, and makeup process, cinematic perspective emphasizing elegance, beauty, and professional atmosphere.",
+          "prompt": ,
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
+        {
+          "id": "crying_effect",
+          "image_url": "https://cdn.pixabay.com/photo/2024/07/10/09/53/ai-generated-8885415_1280.png",
+          "title": "Crying Effect",
+          "description_key": "crying_effect_desc",
+          "prompt": "Sad tears animation with emotional effect",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        }
       ]
     },
     {
@@ -104,11 +113,11 @@
           "video_type": "single_image_to_video"
         },
         {
-          "id": "wolf_howl",
-          "image_url": "https://cdn.pixabay.com/photo/2024/07/22/06/49/wolf-8911946_1280.jpg",
-          "title": "Wolf Howl",
-          "description_key": "wolf_howl_desc",
-          "prompt": "Transformation into a wolf under the moonlight",
+          "id": "Werewolf Transformation",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-5.jpeg",
+          "title": "Werewolf Transformation",
+          "description_key": "angel_wings_desc",
+          "prompt": "A cinematic scene of a person transforming into a muscular werewolf. The face from the input image is naturally blended onto the werewolf’s head. The werewolf has defined muscles, sharp claws, and fur details, standing in a dynamic aggressive pose. Dramatic lighting highlights the muscular physique and facial features, subtle motion blur for transformation effect, tense and intense atmosphere, ultra-realistic style, high detail on fur, muscles, and facial expression, cinematic perspective emphasizing power and strength.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
@@ -195,43 +204,11 @@
           "video_type": "single_image_to_video"
         },
         {
-          "id": "mirror_horror",
-          "image_url": "https://cdn.pixabay.com/photo/2020/05/29/04/53/horror-5233620_1280.jpg",
-          "title": "Mirror Horror",
-          "description_key": "mirror_horror_desc",
-          "prompt": "Face transforms into eerie reflection in mirror",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-      ]
-    },
-    {
-      "category_name": "Action Figures",
-      "templates": [
-        {
-          "id": "superhero_pose",
-          "image_url": "https://cdn.pixabay.com/photo/2024/03/15/19/53/super-hero-8635698_1280.jpg",
-          "title": "Superhero Pose",
-          "description_key": "superhero_pose_desc",
-          "prompt": "Transform into action figure superhero stance",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-        {
-          "id": "anime_hero",
-          "image_url": "https://cdn.pixabay.com/photo/2023/06/02/15/42/ai-generated-8035980_1280.png",
-          "title": "Anime Hero",
-          "description_key": "anime_hero_desc",
-          "prompt": "Face styled into anime action hero character",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-        {
-          "id": "cyber_warrior",
-          "image_url": "https://cdn.pixabay.com/photo/2023/01/10/06/57/female-warrior-7709062_1280.jpg",
-          "title": "Cyber Warrior",
-          "description_key": "cyber_warrior_desc",
-          "prompt": "Action figure cyber warrior with glowing effects",
+          "id": "Horror Chase",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-7.jpeg",
+          "title": "Horror Chase",
+          "description_key": "robot_mecha_desc",
+          "prompt": "A cinematic horror scene of a person being followed by a terrifying monster or creature. The face from the input image is placed naturally on the person being chased. The monster is dark, menacing, and slightly blurred to create tension, while the person shows fear and panic. Dramatic lighting with shadows and flickering lights, fog or smoke in the background, dynamic camera angles capturing the chase, subtle motion blur to emphasize speed and movement. Ultra-realistic style, high detail on facial expression, body posture, and monster appearance, tense and scary atmosphere, cinematic perspective highlighting fear and suspense.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         }
@@ -241,20 +218,11 @@
       "category_name": "Flying",
       "templates": [
         {
-          "id": "angel_wings",
-          "image_url": "https://cdn.pixabay.com/photo/2024/08/13/12/42/ai-generated-8965911_1280.jpg",
-          "title": "Angel Wings",
+          "id": "Flying Around the Pyramids",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image.jpeg",
+          "title": "Flying Around the Pyramids",
           "description_key": "angel_wings_desc",
-          "prompt": "Majestic angel wings spreading in cinematic style",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-        {
-          "id": "supeeerrman_fly",
-          "image_url": "https://cdn.pixabay.com/photo/2023/10/10/09/50/ai-generated-8306004_1280.jpg",
-          "title": "Superman Fly",
-          "description_key": "superman_fly_desc",
-          "prompt": "Superhero flying through the clouds at speed",
+          "prompt": "A cinematic scene of a person flying gracefully around the pyramids in Egypt. The face from the input image is naturally placed on the flying character’s head. Dynamic camera angles capture the soaring movement over the pyramids, realistic lighting with sunlight casting shadows on the structures, subtle motion blur to emphasize flight speed, ultra-realistic style, high detail on body posture, wind effects on clothing and hair, cinematic perspective highlighting freedom, adventure, and majestic atmosphere.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
