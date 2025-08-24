@@ -238,29 +238,6 @@
       ]
     },
     {
-      "category_name": "Mythical Transformations",
-      "templates": [
-        {
-          "id": "dragon_shift",
-          "image_url": "https://cdn.pixabay.com/photo/2024/07/29/21/45/red-dragon-8930685_1280.png",
-          "title": "Dragon Shift",
-          "description_key": "dragon_shift_desc",
-          "prompt": "Transform into a dragon breathing fire",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-        {
-          "id": "medusa_gaze",
-          "image_url": "https://cdn.pixabay.com/photo/2023/06/18/15/47/ai-generated-8072334_1280.jpg",
-          "title": "Medusa Gaze",
-          "description_key": "medusa_gaze_desc",
-          "prompt": "Face turns into Medusa with glowing snake hair",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-      ]
-    },
-    {
       "category_name": "Futuristic Worlds",
       "templates": [
         {
