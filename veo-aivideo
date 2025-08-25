@@ -8,7 +8,7 @@
           "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-1.jpeg",
           "title": "Sucker Punch",
           "description_key": "sucker_punch_desc",
-          "prompt": "A cinematic scene of a person standing, suddenly hit by a fast, unexpected punch from the side. Head and body react naturally, dramatic and realistic impact, smooth motion, slow-motion effect on the punch, dynamic camera angles, realistic lighting, subtle shadows, tense atmosphere, ultra-realistic style, high detail, motion blur emphasizing speed and force.",
+          "prompt": "A dynamic slow-motion shot of a surprised person being hit with a sucker punch, impact waves distorting the air, intense facial expression.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
@@ -17,7 +17,7 @@
           "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-2.jpeg",
           "title": "Cage Fighter",
           "description_key": "cage_fighter_desc",
-          "prompt": "A cinematic scene of a person in a professional fighting cage, like UFC, ready to fight. The face from the input image is placed on the fighter’s body naturally. Dynamic camera angles, realistic lighting, blurred cheering crowd in the background, tense atmosphere, ultra-realistic style, high detail on muscles, stance, and body posture, subtle motion blur to emphasize movement, cinematic perspective highlighting strength and focus.",
+          "prompt": "Two MMA fighters in an octagon cage, one executing a spinning kick under bright arena lights, crowd blurry in the background, motion blur on the impact.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
@@ -26,7 +26,7 @@
           "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-14.jpeg",
           "title": "Mermaid",
           "description_key": "mermaid_desc",
-          "prompt": "A cinematic scene of a person transforming into a mermaid, moving from above the water to underwater. The face from the input image is naturally placed on the mermaid’s body, with a gentle small smile. Realistic underwater lighting, soft sun rays penetrating the water surface, bubbles and water movement around the body, flowing hair and tail, subtle motion blur for natural movement, calm and magical atmosphere. Ultra-realistic style, high detail on facial expression, scales, and tail, cinematic perspective emphasizing the transition from above water to underwater.",
+          "prompt": "A beautiful mermaid with iridescent scales swimming gracefully through a sunlit coral reef, her long hair flowing in the crystal clear water.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
@@ -35,7 +35,7 @@
           "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-5.jpeg",
           "title": "Werewolf Transformation",
           "description_key": "worewolf_transformation_desc",
-          "prompt": "A cinematic scene of a person transforming into a muscular werewolf. The face from the input image is naturally blended onto the werewolf’s head. The werewolf has defined muscles, sharp claws, and fur details, standing in a dynamic aggressive pose. Dramatic lighting highlights the muscular physique and facial features, subtle motion blur for transformation effect, tense and intense atmosphere, ultra-realistic style, high detail on fur, muscles, and facial expression, cinematic perspective emphasizing power and strength.",
+          "prompt": "A terrifying werewolf transformation under a full moon, muscles contorting and fur bursting through skin, time-lapse effect, in a dark forest.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
@@ -44,7 +44,7 @@
           "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-7.jpeg",
           "title": "Horror Chase",
           "description_key": "horror_chase_desc",
-          "prompt": "A cinematic horror scene of a person being followed by a terrifying monster or creature. The face from the input image is placed naturally on the person being chased. The monster is dark, menacing, and slightly blurred to create tension, while the person shows fear and panic. Dramatic lighting with shadows and flickering lights, fog or smoke in the background, dynamic camera angles capturing the chase, subtle motion blur to emphasize speed and movement. Ultra-realistic style, high detail on facial expression, body posture, and monster appearance, tense and scary atmosphere, cinematic perspective highlighting fear and suspense.",
+          "prompt": "First-person POV shot running through a dark, creepy basement, shaky camera, looking back at a shadowy figure chasing with a knife, cinematic horror lighting.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         }
@@ -56,9 +56,9 @@
         {
           "id": "Rap Star",
           "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-16.jpeg",
-          "title": "Smiling Face",
+          "title": "Rap Star",
           "description_key": "rap_star_desc",
-          "prompt": "A cinematic scene of a person transformed into a rap star, performing in a music video or a hip-hop environment. The face from the input image is naturally placed on the performer’s head. The scene includes stage lights, graffiti, urban background, microphone, and dynamic camera angles capturing movement and energy. Realistic lighting with highlights and shadows, subtle motion blur for natural performance gestures, ultra-realistic style, high detail on facial expression, clothing, and body posture, cinematic perspective emphasizing confidence, charisma, and stage presence.",
+          "prompt": "A charismatic raper on stage in a dark club, performing under a single spotlight, crowd hands in the air, smoke machine, dynamic and energetic.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
@@ -76,7 +76,7 @@
           "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-9.jpeg",
           "title": "Makeup Transformation Studio",
           "description_key": "makeup_studio_desc",
-          "prompt": "A cinematic scene in a professional makeup studio where a person’s face from the input image is transformed into a beautiful version. Multiple makeup artists are applying makeup on the face, adjusting hair and adding finishing touches. Realistic lighting highlights facial features, skin texture, and makeup colors, soft reflections and shadows for depth, subtle motion blur on the hands of the artists. Ultra-realistic style, high detail on face, expressions, and makeup process, cinematic perspective emphasizing elegance, beauty, and professional atmosphere.",
+          "prompt": "Timelapse of a professional makeup artist applying dramatic fantasy makeup, colors and special effects morphing onto a model's face in a well-lit studio.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
@@ -117,7 +117,7 @@
           "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-5.jpeg",
           "title": "Werewolf Transformation",
           "description_key": "angel_wings_desc",
-          "prompt": "A cinematic scene of a person transforming into a muscular werewolf. The face from the input image is naturally blended onto the werewolf’s head. The werewolf has defined muscles, sharp claws, and fur details, standing in a dynamic aggressive pose. Dramatic lighting highlights the muscular physique and facial features, subtle motion blur for transformation effect, tense and intense atmosphere, ultra-realistic style, high detail on fur, muscles, and facial expression, cinematic perspective emphasizing power and strength.",
+          "prompt": "A terrifying werewolf transformation under a full moon, muscles contorting and fur bursting through skin, time-lapse effect, in a dark forest.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
@@ -208,7 +208,7 @@
           "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-7.jpeg",
           "title": "Horror Chase",
           "description_key": "robot_mecha_desc",
-          "prompt": "A cinematic horror scene of a person being followed by a terrifying monster or creature. The face from the input image is placed naturally on the person being chased. The monster is dark, menacing, and slightly blurred to create tension, while the person shows fear and panic. Dramatic lighting with shadows and flickering lights, fog or smoke in the background, dynamic camera angles capturing the chase, subtle motion blur to emphasize speed and movement. Ultra-realistic style, high detail on facial expression, body posture, and monster appearance, tense and scary atmosphere, cinematic perspective highlighting fear and suspense.",
+          "prompt": "First-person POV shot running through a dark, creepy basement, shaky camera, looking back at a shadowy figure chasing with a knife, cinematic horror lighting.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         }
@@ -222,7 +222,7 @@
           "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image.jpeg",
           "title": "Flying Around the Pyramids",
           "description_key": "angel_wings_desc",
-          "prompt": "A cinematic scene of a person flying gracefully around the pyramids in Egypt. The face from the input image is naturally placed on the flying character’s head. Dynamic camera angles capture the soaring movement over the pyramids, realistic lighting with sunlight casting shadows on the structures, subtle motion blur to emphasize flight speed, ultra-realistic style, high detail on body posture, wind effects on clothing and hair, cinematic perspective highlighting freedom, adventure, and majestic atmosphere.",
+          "prompt": "Someone flying effortlessly through the vast inner chambers of an ancient Egyptian pyramid, glowing hieroglyphs on the walls, sunbeams cutting through dust.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
