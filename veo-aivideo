@@ -43,15 +43,6 @@
           "prompt": "Timelapse of a professional makeup artist applying dramatic fantasy makeup, colors and special effects morphing onto a model's face in a well-lit studio.",
           "isVeo": true,
           "video_type": "single_image_to_video"
-        },
-        {
-          "id": "crying_emotion",
-          "image_url": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=800&h=600&fit=crop",
-          "title": "crying emotion",
-          "description_key": "crying_emotion_desc",
-          "prompt": "show emotional tears with gentle head movement",
-          "isVeo": false,
-          "video_type": "single_image_to_video"
         }
       ]
     },
