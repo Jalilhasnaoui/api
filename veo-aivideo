@@ -20,15 +20,6 @@
           "prompt": "Two MMA fighters in an octagon cage, one executing a spinning kick under bright arena lights, crowd blurry in the background, motion blur on the impact.",
           "isVeo": true,
           "video_type": "single_image_to_video"
-        },
-        {
-          "id": "Mermaid",
-          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-14.jpeg",
-          "title": "Mermaid",
-          "description_key": "mermaid_desc",
-          "prompt": "A beautiful mermaid with iridescent scales swimming gracefully through a sunlit coral reef, her long hair flowing in the crystal clear water.",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
         }
       ]
     },
@@ -41,15 +32,6 @@
           "title": "Rap Star",
           "description_key": "rap_star_desc",
           "prompt": "A charismatic raper on stage in a dark club, performing under a single spotlight, crowd hands in the air, smoke machine, dynamic and energetic.",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-        {
-          "id": "crying_effect",
-          "image_url": "https://cdn.pixabay.com/photo/2024/07/10/09/53/ai-generated-8885415_1280.png",
-          "title": "Crying Effect",
-          "description_key": "crying_effect_desc",
-          "prompt": "Sad tears animation with emotional effect",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
