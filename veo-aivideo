@@ -45,12 +45,12 @@
           "video_type": "single_image_to_video"
         },
         {
-          "id": "crying_effect",
-          "image_url": "https://cdn.pixabay.com/photo/2024/07/10/09/53/ai-generated-8885415_1280.png",
-          "title": "Crying Effect",
-          "description_key": "crying_effect_desc",
-          "prompt": "Sad tears animation with emotional effect",
-          "isVeo": true,
+          "id": "crying_emotion",
+          "image_url": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=800&h=600&fit=crop",
+          "title": "crying emotion",
+          "description_key": "crying_emotion_desc",
+          "prompt": "show emotional tears with gentle head movement",
+          "isVeo": false,
           "video_type": "single_image_to_video"
         }
       ]
