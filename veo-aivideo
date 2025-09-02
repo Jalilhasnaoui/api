@@ -68,20 +68,6 @@
           "video_type": "single_image_to_video"
         }
       ]
-    },
-    {
-      "category_name": "Futuristic Worlds",
-      "templates": [
-        {
-          "id": "neon_city",
-          "image_url": "https://cdn.pixabay.com/photo/2023/09/19/15/40/ai-generated-8262910_1280.jpg",
-          "title": "Neon City",
-          "description_key": "neon_city_desc",
-          "prompt": "Cinematic transformation into neon futuristic city",
-          "isVeo": true,
-          "video_type": "single_image_to_video"
-        },
-      ]
     }
   ]
 }
