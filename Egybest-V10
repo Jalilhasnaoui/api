@@ -1,0 +1,27 @@
+{
+  "casID": "com.ibostore.iboxtv",
+  "apk_url": "https://egybestapp.pro/",
+  "version": "9.0",
+  "adNetwork": "cas",
+  "startAppID": "203789304",
+  "unityAppID": "5603115",
+  "yodoAppKey": "b0cNNRrZWa",
+  "customPopup": {
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Snaptube_Logo.png",
+    "title": "تعرف على Snaptube",
+    "message": "افضل تطبيق لتحميل الفيديوهات على الإطلاق",
+    "isActive": false,
+    "buttonUrl": "https://www.google.com",
+    "frequency": 3,
+    "buttonText": "تثبيت",
+    "buttonColor": "#FFD700",
+    "buttonTextColor": "#000000"
+  },
+  "unityBanner": "Banner_Android",
+  "unityReward": "Rewarded_Android",
+  "customNativeUrl": "https://t.me/EgyBestapp2",
+  "customNativeImage": "https://dramalive.pro/wp-content/uploads/2024/09/native-egybest.png",
+  "notificationTitle": "إشعار",
+  "unityInterstitial": "Interstitial_Android",
+  "notificationActive": false,
+  "notificationMessage": "لوريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع مطبوعه"
