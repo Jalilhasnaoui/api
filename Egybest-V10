@@ -7,13 +7,16 @@
   "unityAppID": "5603115",
   "yodoAppKey": "b0cNNRrZWa",
   "customPopup": {
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Snaptube_Logo.png",
-    "title": "تعرف على Snaptube",
-    "message": "افضل تطبيق لتحميل الفيديوهات على الإطلاق",
-    "isActive": false,
-    "buttonUrl": "https://www.google.com",
+    "icon": "https://egybestapp.pro/wp-content/uploads/2020/09/logo-site-egybest.webp",
+    "title": "EgyBest APK V10",
+    "message": "التحديث الجديد متوفر الآن ✅
+تم إصلاح مشكلة المحتوى العربي والأنمي، وكذلك التحميل يعمل بشكل طبيعي من جديد.
+
+نعتذر لكم عن الخلل السابق، وشكرًا على صبركم ❤️",
+    "isActive": true,
+    "buttonUrl": "https://www.egybestapp.pro",
     "frequency": 3,
-    "buttonText": "تثبيت",
+    "buttonText": "تحديث",
     "buttonColor": "#FFD700",
     "buttonTextColor": "#000000"
   },
