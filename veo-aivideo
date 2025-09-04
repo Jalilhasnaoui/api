@@ -6,9 +6,9 @@
         {
           "id": "Sucker Punch",
           "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-1.jpeg",
-          "title": "Sucker Punch",
+          "title": "Slow-Mo Punch",
           "description_key": "sucker_punch_desc",
-          "prompt": "A dynamic slow-motion shot of a surprised person being hit with a sucker punch, impact waves distorting the air, intense facial expression.",
+          "prompt": "Dramatic slow-motion punch with impact waves.",
           "isVeo": true,
           "video_type": "single_image_to_video"
         },
@@ -23,7 +23,48 @@
         }
       ]
     },
- {
+    {
+      "category_name": "Old Memories Animation",
+      "templates": [
+        {
+          "id": "vintage_family_motion",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/09/seedream-image-19.jpeg",
+          "title": "Vintage Family Motion",
+          "description_key": "vintage_family_motion_desc",
+          "prompt": "Make a vintage family portrait move with smiles and gestures.",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "historic_portrait_move",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/09/seedream-image-20.jpeg",
+          "title": "Historic Portrait Move",
+          "description_key": "historic_portrait_move_desc",
+          "prompt": "Bring a historic portrait to life with subtle motion.",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "memory_rewind",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/09/il_300x300.7042932005_ksvj.avif",
+          "title": "Memory Rewind",
+          "description_key": "memory_rewind_desc",
+          "prompt": "Revive a faded photograph with gentle face animation.",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        },
+        {
+          "id": "smile_restore",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/09/seedream-image-21.jpeg",
+          "title": "Smile Restore",
+          "description_key": "smile_restore_desc",
+          "prompt": "Restore a photo by adding a natural smile and expression.",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        }
+      ]
+    },
+    {
       "category_name": "Viral Ai",
       "templates": [
         {
@@ -107,6 +148,15 @@
           "prompt": "Someone flying effortlessly through the vast inner chambers of an ancient Egyptian pyramid, glowing hieroglyphs on the walls, sunbeams cutting through dust.",
           "isVeo": true,
           "video_type": "single_image_to_video"
+        },
+        {
+         "id": "flying_newyork",
+         "image_url": "https://aiclholtd.com/wp-content/uploads/2025/09/seedream-image-22.jpeg",
+         "title": "Skyline Flight",
+         "description_key": "flying_newyork_desc",
+         "prompt": "Fly above New York skyscrapers at sunset with neon lights below.",
+         "isVeo": true,
+         "video_type": "single_image_to_video"
         },
         {
           "id": "paragliding_scene",
