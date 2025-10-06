@@ -1,1 +1,20 @@
+{
+  "ai_tool_categories": [
+    {
+      "category_name": "Facial Expressions",
+      "templates": [
+        {
+          "id": "Makeup Transformation Studio",
+          "image_url": "https://aiclholtd.com/wp-content/uploads/2025/08/seedream-image-9.jpeg",
+          "title": "Makeup Transformation Studio",
+          "description_key": "makeup_studio_desc",
+          "prompt": "Timelapse of a professional makeup artist applying dramatic fantasy makeup, colors and special effects morphing onto a model's face in a well-lit studio.",
+          "isVeo": true,
+          "video_type": "single_image_to_video"
+        }
+      ]
+    }
+  ]
+}
 
+ 
