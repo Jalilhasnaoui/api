@@ -1,0 +1,42 @@
+{
+  "casID": "com.bibostore.zaandk",
+  "apk_url": "https://mycima-app.site/",
+  "version": "3",
+  "adNetwork": "cas",
+  "vidsrcUrl": "https://vidsrc-embed.ru",
+  "startAppID": "203789304",
+  "unityAppID": "5603115",
+  "yodoAppKey": "b0cNNRrZWa",
+
+  "customPopup": {
+    "icon": "https://egybestapp.pro/wp-content/uploads/2020/09/logo-site-egybest.webp",
+    "title": "EgyBest APK V10",
+    "message": "يسعدنا إعلامكم بإصدار EgyBest v12 مع مجموعة من التحسينات المهمة:
+
+✅ إصلاح مشكل التحميل بشكل كامل
+✅ إعادة محتوى الأنمي
+✅ إضافة بث مباشر للقنوات
+⚽ بث مباشر لمباريات كأس إفريقيا – المغرب 🇲🇦
+
+📲 حدّث التطبيق الآن واستمتع بتجربة أفضل وأسرع.
+شكرًا لكم على ثقتكم ودعمكم المستمر ❤️",
+    "isActive": false,
+    "buttonUrl": "https://www.mycima-app.site",
+    "frequency": 5,
+    "buttonText": "تحديث",
+    "buttonColor": "#FFD700",
+    "buttonTextColor": "#000000"
+  },
+
+  "unityBanner": "Banner_Android",
+  "unityReward": "Rewarded_Android",
+  "unityInterstitial": "Interstitial_Android",
+
+  "aflam4youUrl": "https://can2025.aflam4you.net",
+  "customNativeUrl": "https://t.me/mycimaapk",
+  "customNativeImage": "https://egybestapp.pro/wp-content/uploads/2025/09/New-Project-19.png",
+
+  "notificationTitle": "إشعار",
+  "notificationActive": false,
+  "notificationMessage": "لوريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع مطبوعه"
+}
