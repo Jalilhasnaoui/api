@@ -1,0 +1,37 @@
+{
+  "casID": "com.ibostore.iboxtv",
+  "apk_url": "https://egybestapp.pro/",
+  "version": "11",
+  "adNetwork": "cas",
+
+  "tuktukUrl": "https://www.tuktukcima.com/",
+  "vidsrcUrl": "https://vidsrc-embed.ru",
+
+  "startAppID": "203789304",
+  "unityAppID": "5603115",
+  "yodoAppKey": "b0cNNRrZWa",
+
+  "customPopup": {
+    "icon": "https://egybestapp.pro/wp-content/uploads/2020/09/logo-site-egybest.webp",
+    "title": "EgyBest APK V10",
+    "message": "التحديث الجديد متوفر الآن ✅\nتم إصلاح مشكلة المحتوى العربي والأنمي، وكذلك التحميل يعمل بشكل طبيعي من جديد.\n\nنعتذر لكم عن الخلل السابق، وشكرًا على صبركم ❤️",
+    "isActive": true,
+    "buttonUrl": "https://www.egybestapp.pro",
+    "frequency": 5,
+    "buttonText": "تحديث",
+    "buttonColor": "#FFD700",
+    "buttonTextColor": "#000000"
+  },
+
+  "unityBanner": "Banner_Android",
+  "unityInterstitial": "Interstitial_Android",
+  "unityReward": "Rewarded_Android",
+
+  "aflam4youUrl": "https://can2025.aflam4you.net",
+  "customNativeUrl": "https://t.me/EgyBestapp2",
+  "customNativeImage": "https://dramalive.pro/wp-content/uploads/2024/09/native-egybest.png",
+
+  "notificationTitle": "إشعار",
+  "notificationActive": false,
+  "notificationMessage": "لوريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع مطبوعه"
+}
