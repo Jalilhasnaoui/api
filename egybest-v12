@@ -1,12 +1,3 @@
-{
-  "casID": "com.ibostore.iboxtv",
-  "apk_url": "https://egybestapp.pro/",
-  "version": "12",
-  "adNetwork": "cas",
-  "vidsrcUrl": "https://vsembed.ru/",
-  "startAppID": "203789304",
-  "unityAppID": "5603115",
-  "yodoAppKey": "b0cNNRrZWa",
 
   "customPopup": {
     "icon": "https://egybestapp.pro/wp-content/uploads/2020/09/logo-site-egybest.webp",
