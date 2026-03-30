@@ -1,24 +1,4 @@
-{
-  "casID": "com.ibostore.iboxtv",
-  "apk_url": "https://egybestapp.pro/",
-  "version": "11",
-  "adNetwork": "cas",
-  "startAppID": "203789304",
-  "unityAppID": "5603115",
-  "yodoAppKey": "b0cNNRrZWa",
-  "customPopup": {
-    "icon": "https://egybestapp.pro/wp-content/uploads/2020/09/logo-site-egybest.webp",
-    "title": "EgyBest APK V10",
-    "message": "التحديث الجديد متوفر الآن ✅
-تم إصلاح مشكلة المحتوى العربي والأنمي، وكذلك التحميل يعمل بشكل طبيعي من جديد.
 
-نعتذر لكم عن الخلل السابق، وشكرًا على صبركم ❤️",
-    "isActive": true,
-    "buttonUrl": "https://www.egybestapp.pro",
-    "frequency": 5,
-    "buttonText": "تحديث",
-    "buttonColor": "#FFD700",
-    "buttonTextColor": "#000000"
   },
   "unityBanner": "Banner_Android",
   "unityReward": "Rewarded_Android",
