@@ -1,19 +1,4 @@
-{
-  "casID": "com.ibostore.iboxtv",
-  "apk_url": "https://egybestapp.pro/",
-  "version": "11",
-  "adNetwork": "cas",
-  "startAppID": "203789304",
-  "unityAppID": "5603115",
-  "yodoAppKey": "b0cNNRrZWa",
-  "unityBanner": "Banner_Android",
-  "unityReward": "Rewarded_Android",
-  "customNativeUrl": "https://egybestapp.pro/",
-  "customNativeImage": "https://dramalive.pro/wp-content/uploads/2025/02/NEW-UPDATE-EGYBEST.png",
-  "notificationTitle": "إشعار",
-  "unityInterstitial": "Interstitial_Android",
-  "notificationActive": false,
-  "notificationMessage": "🎉 خبر سار! التحديث الجديد متوفر الآن!
+ديد متوفر الآن!
 
 تم إطلاق التحديث الجديد لـ EgyBest App مع تحسينات رائعة وتجربة مشاهدة أفضل! قم بتحميله الآن واستمتع بأفضل الأفلام والمسلسلات."
 }
