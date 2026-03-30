@@ -1,16 +1,3 @@
-{
-  "adNetwork": "yodo",
-  "unityAppID": "5603115",
-  "unityInterstitial": "Interstitial_Android",
-  "unityBanner": "Banner_Android",
-  "unityReward": "Rewarded_Android",
-  "startAppID": "203789304",
-  "yodoAppKey": "MzRZ5eiIaH",
-  "version": "7.0",
-  "notificationActive":false,
-  "notificationTitle":"إشعار",
-  "notificationMessage":"لوريم ايبسوم هو نموذج افتراضي يوضع في التصاميم لتعرض على العميل ليتصور طريقه وضع مطبوعه",
-  "customNativeImage": "https://dramalive.pro/wp-content/uploads/2024/09/native-egybest.png",
-  "customNativeUrl":"https://t.me/EgyBestapp2",
+
   "apk_url": "https://egybestapp.pro/"
 }
